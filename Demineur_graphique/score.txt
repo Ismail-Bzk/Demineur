@@ -1,0 +1,5 @@
+/FACILE:1
+Victor:10:99.9
+/MOYEN:0
+/DIFFILE:0
+/CUSTOM:0

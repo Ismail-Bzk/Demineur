@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1653573513 source:c:\users\victo\documents\cours inge\2eme annee\c++\demineur_graphique\src\history.cpp
+	"History.h"
+	<iostream>
+
+1653568298 c:\users\victo\documents\cours inge\2eme annee\c++\demineur_graphique\include\history.h
+	<vector>
+	<iostream>
+
+1652606088 source:c:\users\victo\documents\cours inge\2eme annee\c++\demineur_graphique\src\score_file.cpp
+	"score_file.h"
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	<algorithm>
+
+1652605819 c:\users\victo\documents\cours inge\2eme annee\c++\demineur_graphique\include\score_file.h
+	<string>
+	<iostream>
+	<vector>
+
+1653573671 source:c:\users\victo\documents\cours inge\2eme annee\c++\demineur_graphique\main.cpp
+	"Demineur.h"
+	"score_file.h"
+	<chrono>
+
+1653573078 c:\users\victo\documents\cours inge\2eme annee\c++\demineur_graphique\include\demineur.h
+	"History.h"
+	<vector>
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+
+1653573439 source:c:\users\victo\documents\cours inge\2eme annee\c++\demineur_graphique\src\demineur.cpp
+	"Demineur.h"
+	<iomanip>
+
+1653573671 source:c:\users\victo\documents\cours inge\2eme annee\c++\projet s2\demineur_graphique\main.cpp
+	"Demineur.h"
+	"score_file.h"
+	<chrono>
+
+1653573078 c:\users\victo\documents\cours inge\2eme annee\c++\projet s2\demineur_graphique\include\demineur.h
+	"History.h"
+	<vector>
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+
+1653568298 c:\users\victo\documents\cours inge\2eme annee\c++\projet s2\demineur_graphique\include\history.h
+	<vector>
+	<iostream>
+
+1652605819 c:\users\victo\documents\cours inge\2eme annee\c++\projet s2\demineur_graphique\include\score_file.h
+	<string>
+	<iostream>
+	<vector>
+
+1653573513 source:c:\users\victo\documents\cours inge\2eme annee\c++\projet s2\demineur_graphique\src\history.cpp
+	"History.h"
+	<iostream>
+
+1652606088 source:c:\users\victo\documents\cours inge\2eme annee\c++\projet s2\demineur_graphique\src\score_file.cpp
+	"score_file.h"
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	<algorithm>
+
+1653574194 source:c:\users\victo\documents\cours inge\2eme annee\c++\projet s2\demineur_graphique\src\demineur.cpp
+	"Demineur.h"
+	<iomanip>
+

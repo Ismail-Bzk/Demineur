@@ -1,0 +1,10 @@
+/FACILE:1
+audrey:8:70.89
+/MOYEN:0
+/DIFFILE:0
+/CUSTOM:4
+:5:2:16.33
+Anonyme:5:1:0.99
+Anonyme:2:3:0.75
+Anonyme:2:3:0.7
+/3D:0
